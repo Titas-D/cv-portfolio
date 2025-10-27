@@ -9,3 +9,10 @@ Each model focuses on precision, functionality, and practical engineering applic
 - **Additional parts and assemblies** – supporting components and technical drawings demonstrating various design principles
 
 📸 The folder includes 3D parts, assemblies, and drawings that illustrate both the geometry and assembly structure of the designs.
+## Gallery
+
+### Raspberry Pi Control Module Enclosure
+
+Below is an animation showing the assembly of the designed Raspberry Pi enclosure.
+
+![Raspberry Pi Enclosure Animation](3Dasemblis-ezgif.com-optimize.gif)
